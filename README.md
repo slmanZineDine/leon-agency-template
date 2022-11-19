@@ -3,7 +3,7 @@ This template is a one page website to show Leon Agency info.
 
 ## Demo
 
-Check out the live website: ...
+Check out the live website: https://slmanzinedine.github.io/leon-agency-template/
 
 ## Technologies
 
